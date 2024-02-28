@@ -7,7 +7,7 @@ I'm Mike :godmode:
 |     1| Python        |
 |     2|      C++      |
 |     3|    Java       |
-
+<!--
 ## My GitHub Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mch3pg4&theme=dark&background=000000)](https://git.io/streak-stats)
 
@@ -17,7 +17,7 @@ I'm Mike :godmode:
 ## My GitHub Commit Graph
 [![Mike's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mch3pg4&theme=github-compact)](https://github.com/mch3pg4/github-readme-activity-graph)
 
-<!--
+
 **mch3pg4/mch3pg4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
