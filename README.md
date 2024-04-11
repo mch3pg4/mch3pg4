@@ -1,13 +1,15 @@
 ## Hi there 👋
 I'm Mike :godmode:	
 
+<!--
+
 ## Languages I've used
 | Rank | LANGUAGES |
 |-----:|---------------|
 |     1| Python        |
 |     2|      C++      |
 |     3|    Java       |
-<!--
+
 ## My GitHub Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mch3pg4&theme=dark&background=000000)](https://git.io/streak-stats)
 
